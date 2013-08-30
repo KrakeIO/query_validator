@@ -1,5 +1,6 @@
 {
   "name": "query_validator",
   "version": "0.0.1",
-  "main": "./lib/query_validator"
+  "main": "index",
+  "dependencies": { "async": "" }
 }
